@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="digital-sign-java:jar">
+    <output-path>$PROJECT_DIR$/../seminarJar</output-path>
+    <root id="archive" name="digital-sign-java.jar">
+      <element id="module-output" name="digital-sign-java" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../gson-2.11.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
